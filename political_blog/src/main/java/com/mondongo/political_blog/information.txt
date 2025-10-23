@@ -1,0 +1,15 @@
+INFORMACION SOBRE EL FUNCIONAMIENTO:
+
+- El Controller me va a servir para controlar las solicitudes HTTP, siempre que se quiera hacer una solicitud
+de tipo GET o la que sea tendrá que pasar por aqui.
+
+- El Service me va a servir (como su propio nombre indica) para dar servicios como ver todos los datos de mi
+base de datos, o ver datos especificos, desde aqui se van a dar (si se quieren usar obvfiamente tendran que pasar
+por Controller).
+
+- El Repository es un acceso o referencia a la base de datos que quiera usar en mi web app, en mi caso, estoy usando
+mongodb asi que querré acceder a la base de datos que he creado en mi cluster.
+
+- Los modelos son necesarios para pasar la informacion de una tabla o documento en forma de objeto, mas manejable
+en codigo para poder manipularlo. Obviamente se envia en json o xml que es el lenguaje que entiende la web porque
+es cercano al texto plano.
