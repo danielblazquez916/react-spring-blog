@@ -1,5 +1,5 @@
 <h1 align="center">Minimal Blog: <br> React + Spring Boot + MongoDB</h1>
-<p align="center"><a href="#project-description">Project Description</a> - <a href="#features">Features</a></p>
+<p align="center"><a href="#project-description">Project Description</a> - <a href="#features">Features</a> - <a href="#tech-stack">Tech Stack</a> - <a href="#installation">Installation</a> - <a href="#screenshots">Screenshots</a></p>
 
 <img src="" alt="" align="middle" width="auto" height="auto">
 
@@ -18,3 +18,9 @@
 <li>Comment system with live updates (user enters name)</li>
 <li>Pagination system for easy post navigation</li>
 </ul>
+
+## Tech Stack:
+
+## Installation:
+
+## Screenshots:
