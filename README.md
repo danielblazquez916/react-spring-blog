@@ -1,4 +1,4 @@
-<h1 align="center">Blog Project: <br> React + Spring Boot + MongoDB</h1>
+<h1 align="center">Blog App: <br> React + Spring Boot + MongoDB</h1>
 <p align="center"><a href="#project-description">Project Description</a> - <a href="#features">Features</a> - <a href="#tech-stack">Tech Stack</a> - <a href="#installation">Installation</a> - <a href="#screenshots">Screenshots</a></p>
 
 <img src="" alt="" align="middle" width="auto" height="auto">
@@ -26,14 +26,14 @@
 
 ## Installation:
 
-#### 1. Clone the repository
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/danielblazquez916/react-spring-blog.git
 cd react-spring-blog
 ```
 
-#### 2. Backend setup (Spring Boot)
+### 2. Backend setup (Spring Boot)
 
 1. **Open the project** in your IDE (NetBeans recommended).
 
@@ -54,7 +54,6 @@ cd react-spring-blog
 
    * Open `PoliticalBlogApplication.java` in your IDE, right-click and select **Run**.
    * Spring Boot will start the backend on `http://localhost:8080` by default.
----
 
 ### 3. Frontend setup (React)
 
