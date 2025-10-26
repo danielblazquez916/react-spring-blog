@@ -26,14 +26,14 @@
 
 ## Installation:
 
-#### 1. Clone the repository
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/danielblazquez916/react-spring-blog.git
 cd react-spring-blog
 ```
 
-#### 2. Backend setup (Spring Boot)
+### 2. Backend setup (Spring Boot)
 
 1. **Open the project** in your IDE (NetBeans recommended).
 
@@ -54,7 +54,6 @@ cd react-spring-blog
 
    * Open `PoliticalBlogApplication.java` in your IDE, right-click and select **Run**.
    * Spring Boot will start the backend on `http://localhost:8080` by default.
----
 
 ### 3. Frontend setup (React)
 
