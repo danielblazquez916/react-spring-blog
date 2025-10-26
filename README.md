@@ -25,27 +25,48 @@
 </ul>
 
 ## Installation:
-1. Clone the repository:
+
+#### 1. Clone the repository
+
 ```bash
 git clone https://github.com/danielblazquez916/react-spring-blog.git
 cd react-spring-blog
 ```
-2. Backend setup (Spring Boot):
-    - Open the project folder in your IDE (NetBeans recommended).
-    - Make sure you have Java 17+ and Maven installed.
-    - Configure your MongoDB URI in application.properties (I'll suppose that you have MongoDB installed).
-    - Run the backend:
-      ```bash
-      mvn spring-boot:run
-      ```
-      (you can run it directly from your IDE)
-      
-3. Frontend setup (React):
-   ```bash
-   cd frontend
-   npm install
-   npm start
-   ```
-   The app will run on http://localhost:3000
+
+#### 2. Backend setup (Spring Boot)
+
+1. **Open the project** in your IDE (NetBeans recommended).
+
+3. **Requirements:**
+   * Java 17 or higher
+   * Maven installed
+
+4. **Configure MongoDB:**
+
+   * Install MongoDB Server: [MongoDB Community](https://www.mongodb.com/try/download/community)
+   * Make sure the MongoDB service is running.
+   * Open **MongoDB Compass** and create a database named `posts_db`.
+     * You can rename it, but remember to update the URI in `application.properties`.
+   * Create two collections: `posts` and `comments`.
+   * *(Optional)* Import the provided JSON file to populate test posts.
+
+5. **Run the backend:**
+
+   * Open `PoliticalBlogApplication.java` in your IDE, right-click and select **Run**.
+   * Spring Boot will start the backend on `http://localhost:8080` by default.
+---
+
+### 3. Frontend setup (React)
+
+```bash
+cd political_blog_client/political_blog_react
+npm install
+npm start
+```
+
+* The React app will run at [http://localhost:3000](http://localhost:3000).
+* Make sure the backend is running so the frontend can fetch data correctly.
+
+
 
 ## Screenshots:
