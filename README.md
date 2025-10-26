@@ -1,4 +1,4 @@
-<h1 align="center">Blog Project: <br> React + Spring Boot + MongoDB</h1>
+<h1 align="center">Blog App: <br> React + Spring Boot + MongoDB</h1>
 <p align="center"><a href="#project-description">Project Description</a> - <a href="#features">Features</a> - <a href="#tech-stack">Tech Stack</a> - <a href="#installation">Installation</a> - <a href="#screenshots">Screenshots</a></p>
 
 <img src="" alt="" align="middle" width="auto" height="auto">
