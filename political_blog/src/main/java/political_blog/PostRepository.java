@@ -1,4 +1,4 @@
-package com.mondongo.political_blog;
+package political_blog;
 
 import java.util.Optional;
 import org.bson.types.ObjectId;

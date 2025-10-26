@@ -1,0 +1,20 @@
+[
+  {
+    "postID": "post1",
+    "title": "Elecciones 2025: Principales candidatos",
+    "content": "Un repaso a los candidatos más relevantes de las elecciones de este año...",
+    "author": "Daniel",
+    "description": "Resumen de los candidatos políticos actuales",
+    "publishedDate": "2025-10-26",
+    "commentIds": []
+  },
+  {
+    "postID": "post2",
+    "title": "Debate sobre la economía global",
+    "content": "Cómo los cambios económicos afectan a la política internacional...",
+    "author": "Laura",
+    "description": "Análisis económico-político",
+    "publishedDate": "2025-10-25",
+    "commentIds": []
+  }
+]

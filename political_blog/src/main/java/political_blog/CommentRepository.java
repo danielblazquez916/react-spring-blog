@@ -1,4 +1,4 @@
-package com.mondongo.political_blog;
+package political_blog;
 
 import org.bson.types.ObjectId;
 import org.springframework.data.domain.Page;

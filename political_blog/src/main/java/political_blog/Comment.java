@@ -1,4 +1,4 @@
-package com.mondongo.political_blog;
+package political_blog;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
