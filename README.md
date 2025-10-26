@@ -2,10 +2,11 @@
 <p align="center"><a href="#project-description">Project Description</a> - <a href="#features">Features</a> - <a href="#tech-stack">Tech Stack</a> - <a href="#installation">Installation</a> - <a href="#screenshots">Screenshots</a></p>
 
 <p align="center">
-  <img src="" alt="Blog Banner" width="80%">
+  <img src="screenshots/BLOG-APP.png" alt="Blog Banner" width="80%">
 </p>
 
 ## Project Description:
+##### ⚠️ Disclaimer: This project is currently a Work in Progress.
 <p>This is a minimalist, modern blog application built with <strong>React</strong> for the frontend and <strong>Spring Boot</strong> for the backend, using <strong>MongoDB</strong> for data storage.</p>
 <p>Originally created for a friend to share political posts, the project wasn’t deployed publicly. Users can post comments by entering their name (no registration/login system implemented yet), and the comment system works correctly with live updates.</p>
 
@@ -68,6 +69,5 @@ npm start
 * The React app will run at [http://localhost:3000](http://localhost:3000).
 * Make sure the backend is running so the frontend can fetch data correctly.
 
-
-
 ## Screenshots:
+<p align="center"> <img src="screenshots/sc1.png" alt="Screenshot 1" width="45%"> <img src="screenshots/sc2.png" alt="Screenshot 2" width="45%"> </p> <p align="center"> <img src="screenshots/sc3.png" alt="Screenshot 3" width="45%"> <img src="screenshots/sc4.png" alt="Screenshot 4" width="45%"> </p> <p align="center"> <img src="screenshots/sc5.png" alt="Screenshot 5" width="45%"> <img src="screenshots/sc6.png" alt="Screenshot 6" width="45%"> </p>
